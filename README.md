@@ -32,9 +32,3 @@ https://mp.weixin.qq.com/mp/homepage?__biz=MzUyNzI3OTQ2Nw==&hid=1&sn=6f734454a69
 
 接口文档
 https://www.showdoc.cc/tp6vueadmin?page_id=4192966399826193
-
-```
-QQ交流群 :488148501
-微信交流群：（由于群二维码有效期太短，加我微信，拉你入群,备注tp6-vue-admin）
-```
-![image](http://www.hardphp.com/895310371197138665.jpg)
